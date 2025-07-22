@@ -78,4 +78,29 @@ Tenho foco em desenvolvimento backend e gosto de criar soluções inteligentes c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?
+    src="https://github-readme-stats.vercel.app/api?username=Henryrdias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryrdias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/henry-dias/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://instagram.com/mlk_zoio" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+</p>
