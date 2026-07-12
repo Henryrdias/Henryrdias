@@ -68,11 +68,16 @@ API desenvolvida com Python e MySQL para controle de dados com operações CRUD.
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henryrdias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryrdias&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Henryrdias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryrdias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas" height="200" />
+    </td>
+  </tr>
+</table>
 ---
 ---
 
