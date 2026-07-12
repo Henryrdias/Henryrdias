@@ -1,94 +1,66 @@
 <h1 align="center">Olá, eu sou o Henry Dias 👋</h1>
 
-<p align="left">
-Sou de Osasco (SP), atualmente curso Tecnologia em Banco de Dados (Data Analytics) na Mackenzie.  
-Tenho foco em desenvolvimento backend e dados, criando soluções com Python, MySQL e APIs, sempre buscando eficiência e organização de dados.
+<p align="center">
+Desenvolvedor Backend • Python • MySQL • APIs REST • Banco de Dados
+</p>
+
+<p align="center">
+Sou de Osasco (SP) e atualmente curso Tecnologia em Banco de Dados (Data Analytics) na Universidade Presbiteriana Mackenzie.
+Tenho interesse em desenvolvimento backend, automação de processos e soluções orientadas a dados.
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
-- 🔹 Sistema de Gestão de Clientes (API REST)  
-API desenvolvida com Python e MySQL para controle de dados com operações CRUD.  
-[🔗 Ver projeto](https://github.com/Henryrdias/Sistema-de-cliente-API-REST)
+### Sistema de Gestão de Clientes (API REST)
 
----
+API desenvolvida em **Python** e **MySQL** para gerenciamento de clientes, implementando operações **CRUD** e boas práticas de desenvolvimento backend.
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C"
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#"
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/><br/>
+🔗 https://github.com/Henryrdias/Sistema-de-cliente-API-REST
 
 ---
 
-### 📊 Estatísticas
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Henryrdias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryrdias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas" height="200" />
-    </td>
-  </tr>
-</table>
----
----
-
-### 📫 Contato
+## 💻 Tecnologias
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/henry-dias/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
 
-  <a href="https://instagram.com/mlk_zoio" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henryrdias&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryrdias&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/henry-dias/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mlk_zoio">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
